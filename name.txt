@@ -1,0 +1,36 @@
+How to do a quick sanity test on web application using chrome?
+
+Goto View-->developer-->developer tool
+
+Click on devices icon and you will get different devices their you use it for sanity testing
+
+You can also add Responsive web designing testing plugins in chrome for web mobile testing 
+
+
+You can download web plugins user google web store
+
+
+Today's Question:
+
+Hi Raghav, 
+I need to test our website on multiple devices including mobile and tablets.
+We are okay to test it manually, but we cannot purchase all these devices.
+What are the free options to do this.
+
+
+Jeffrey
+__________
+https://www.youtube.com/watch?v=5sw0SCU_Kp4&list=PLhW3qG5bs-L-QFtey8-3Os0gbNftGDDHU&index=2
+
+___________________________________________________
+
+Reference Links:
+
+http://mobiletest.me/
+
+http://quirktools.com/screenfly/
+
+http://www.websiteresponsivetest.com/
+
+http://lab.maltewassermann.com/
+
